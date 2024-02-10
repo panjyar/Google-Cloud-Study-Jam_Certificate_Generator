@@ -1,6 +1,6 @@
 GDSC CITK Google Cloud Study Jam Certificate Generator
 
-Welcome to the GDSC CITK ![LOGO](https://github.com/panjyar/Google-Cloud-Study-Jam_Certificate_Generator/assets/121200924/113d41a1-0608-4302-aa1e-c7d2b574bdb2)
+Welcome to the GDSC CITK (https://github.com/panjyar/Google-Cloud-Study-Jam_Certificate_Generator/assets/121200924/113d41a1-0608-4302-aa1e-c7d2b574bdb2)
 Google Cloud Study Jam Certificate Generator repository! This project aims to provide a simple and efficient way to generate Google Cloud Study Jam certificates for participants.
 
 About
