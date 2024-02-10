@@ -1,7 +1,8 @@
 GDSC CITK Google Cloud Study Jam Certificate Generator
 
-Welcome to the GDSC CITK (https://github.com/panjyar/Google-Cloud-Study-Jam_Certificate_Generator/assets/121200924/113d41a1-0608-4302-aa1e-c7d2b574bdb2)
-Google Cloud Study Jam Certificate Generator repository! This project aims to provide a simple and efficient way to generate Google Cloud Study Jam certificates for participants.
+Welcome to the GDSC CITK 
+
+[GDSC CITK Google Cloud Study Jam Certificate Generator](https://gdsccitk.netlify.app/)! This project aims to provide a simple and efficient way to generate Google Cloud Study Jam certificates for participants.
 
 About
 This project was developed by Google Developer Student Clubs (GDSC) CITK as part of the Google Cloud Study Jam event. The certificate generator allows event organizers to generate personalized certificates for participants who have successfully completed the study jam.
