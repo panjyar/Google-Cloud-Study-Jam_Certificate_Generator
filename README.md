@@ -2,7 +2,7 @@ GDSC CITK Google Cloud Study Jam Certificate Generator
 
 Welcome to the GDSC CITK 
 
-[GDSC CITK Google Cloud Study Jam Certificate Generator](https://gdsccitk.netlify.app/)! This project aims to provide a simple and efficient way to generate Google Cloud Study Jam certificates for participants.
+[GDSC CITK Google Cloud Study Jam Certificate Generator](https://google-cloud-certificate-gdsccitk.netlify.app/)! This project aims to provide a simple and efficient way to generate Google Cloud Study Jam certificates for participants.
 
 About
 
